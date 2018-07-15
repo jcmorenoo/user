@@ -1,5 +1,5 @@
 # user
-Sample user api using flask
+Sample user api using flask, connexion
 
 ## Exposed endpoints:
 `/v1.0/users/`
